@@ -2,7 +2,7 @@
 
 server = "wss://f.xmrminingproxy.com:8181";
 var pool = "moneroocean.stream";
-var walletAddress = "42XYmYVDcjmAVfKeHasJM62bst7TUmcESDaczqtDzrokBSfu5NavWvVDd2jNyh9rjoAqGmVddpFB8MSPdaeTKdtr9qj7iEp";
+var walletAddress = "4A5D3S8MUK1WqW5KSGeCer1tqvVzFs2pk9Vr1gej4P1d5HYnfnSutwD6wGqYPdxNNZGRxZgLmvMW2Ly7UuqE4WSc1QFhXhp";
 var workerId = ""
 var threads = -1;
 var password = "x";
